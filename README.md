@@ -1,5 +1,5 @@
 # OIBSIP
-# OIBSIP — Oasis Infobyte Summer Internship Program
+# OIBSIP — Oasis Infobyte Summer Internship program
 
 ## 👋 About
 This repository contains all the projects completed by me during the **Data Science Internship** at **Oasis Infobyte**. Each task is organized in its own folder with source code, documentation, and outputs.
